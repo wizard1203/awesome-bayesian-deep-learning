@@ -15,6 +15,13 @@ And this repo also provides a file saves the bibtex file of all papers in this r
 - Bayesian Deep Learning and a Probabilistic Perspective of Generalization
 - Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
 - An Optimization-centric View on Bayes' Rule: Reviewing and Generalizing Variational Inference
+- A Bayesian Federated Learning Framework With Online Laplace Approximation
+- Distilling the Knowledge in a Neural Network
+- Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles
+- How good is the Bayes posterior in deep neural networks really?
+- EDERATED LEARNING VIA POSTERIOR AVERAGING: A NEW PERSPECTIVE AND PRACTICAL ALGORITHM
+- A SCALABLE LAPLACE APPROXIMATION FOR NEURAL NETWORKS
+- FedLPA: One-shot Federated Learning with Layer-Wise Posterior Aggregation
 
 
 
