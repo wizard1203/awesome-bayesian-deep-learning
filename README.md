@@ -2,7 +2,13 @@
 This repo aims to provides a comprehensive list of papers about Bayesian Deep Learning, including Bayesian Neural Networks, Bayesian Optimization, Bayesian model merging, Bayesian Classifier, Bayesian Interpretation on LLMs, etc.
 And this repo also provides a file saves the bibtex file of all papers in this repo.
 
-# Papers
+
+# Bayesian Interpretation on LLMs
+
+
+
+
+# Bayesian model merging
 - On the Temperature of Bayesian Graph Neural Networks for Conformal Prediction
 - Uncertainty Aware Semi-Supervised Learning on Graph Data
 - Graph Posterior Network: Bayesian Predictive Uncertainty for Node Classification
@@ -22,6 +28,30 @@ And this repo also provides a file saves the bibtex file of all papers in this r
 - EDERATED LEARNING VIA POSTERIOR AVERAGING: A NEW PERSPECTIVE AND PRACTICAL ALGORITHM
 - A SCALABLE LAPLACE APPROXIMATION FOR NEURAL NETWORKS
 - FedLPA: One-shot Federated Learning with Layer-Wise Posterior Aggregation
+
+
+# Bayesian Neural Networks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
